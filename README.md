@@ -1,9 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header"/>
 
-## 👋 Olá, eu sou Felipe Condera!
+# Olá, eu sou Felipe Condera
 
-💻 Desenvolvedor Web | Frontend & Fullstack  
-🚀 Criador de soluções digitais para negócios locais  
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+**Desenvolvedor Web | Frontend & Fullstack**  
+Criador de soluções digitais para negócios  
+Interessado em **Cloud, Infraestrutura e DevOps**
+
+Formado em **Análise e Desenvolvimento de Sistemas**
+
+---
+
+## 🌎 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fcondera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-condera-341822266)
@@ -12,36 +19,64 @@
 
 ---
 
-### 📊 GitHub Stats
+#  Tecnologias
 
-![Felipe Condera GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcondera&show_icons=true&theme=dracula)
+###  Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind"/>
+
+###  Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,python"/>
+
+###  Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 ---
 
-### 🚀 Tecnologias que utilizo
+#  Cloud & Infraestrutura
 
-<div style="display: inline_block"><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform"/>
 
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+---
 
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+#  Ferramentas
 
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=vscode,git"/>
 
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+---
 
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+#  Estatísticas do GitHub
 
-<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<div align="center">
 
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fcondera&show_icons=true&theme=tokyonight"/>
 
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img align="center" alt="supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcondera&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-💡 Apaixonado por tecnologia e desenvolvimento de software, focado na criação de aplicações web modernas e soluções digitais para empresas.
+#  Atividade no GitHub
+
+[![Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fcondera&theme=tokyo-night)](https://github.com/Fcondera)
+
+---
+
+# 🐍 Contribuições
+
+![Snake animation](https://github.com/Fcondera/Fcondera/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+#  Visitantes
+
+![](https://komarev.com/ghpvc/?username=Fcondera&color=blue)
+
+---
+
+⭐ **Sempre estudando, criando projetos e transformando ideias em software.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer"/>
