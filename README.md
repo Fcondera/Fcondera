@@ -44,17 +44,6 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,n8n"/>
 
----
-
-#  Estatísticas do GitHub
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:60EFFF&height=120&section=footer"/>
-
-</div>
-
----
 
 #  Atividade no GitHub
 
