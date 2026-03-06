@@ -76,4 +76,4 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 ⭐ **Sempre estudando, criando projetos e transformando ideias em software.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:60EFFF&height=120&section=footer"/>
