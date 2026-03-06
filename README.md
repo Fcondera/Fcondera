@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header"/>
 
-# Olá, eu sou Felipe Condera
+# Olá, Eu sou Felipe Condera
 
 **Desenvolvedor Web | Frontend & Fullstack**  
 Criador de soluções digitais para negócios  
@@ -65,7 +65,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 ---
 
-# 🐍 Contribuições
+# Contribuições
 
 ![Snake animation](https://github.com/Fcondera/Fcondera/blob/output/github-contribution-grid-snake.svg)
 
