@@ -31,7 +31,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 ###  Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/>
 
 ---
 
@@ -43,7 +43,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 #  Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,git"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,n8n"/>
 
 ---
 
