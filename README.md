@@ -50,9 +50,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fcondera&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcondera&layout=compact&theme=tokyonight"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:60EFFF&height=120&section=footer"/>
 
 </div>
 
