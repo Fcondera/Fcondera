@@ -1,5 +1,4 @@
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header"/>
-](https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:60EFFF&height=120&section=header)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,50:00E676,100:00BFA6&height=120&section=header"/>
 # Olá, Eu sou Felipe Condera
 
 **Desenvolvedor Web | Frontend & Fullstack**  
