@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,50:00E676,100:00BFA6&height=120&section=header"/>
-# Olá, Eu sou Felipe Condera
+ Olá, Eu sou Felipe Condera
 
-**Desenvolvedor Web | Frontend & Fullstack**  
+**Desenvolvedor  | Frontend & Fullstack**  
 Criador de soluções digitais para negócios  
 Interessado em **Cloud, Infraestrutura e DevOps**
 
