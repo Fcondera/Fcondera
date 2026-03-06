@@ -23,7 +23,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**
 
 ###  Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,flutter"/>
 
 ###  Backend
 
